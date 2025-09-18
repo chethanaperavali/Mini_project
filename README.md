@@ -1,2 +1,3 @@
 # Mini_project
-College project 1
+Task Manager 
+A tastk manager is a user-friendly tool for task management, enabling users to create, update, prioritize, and track the completion of tasks.
